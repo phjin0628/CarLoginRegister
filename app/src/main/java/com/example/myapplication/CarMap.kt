@@ -100,7 +100,7 @@ class CarMap : AppCompatActivity(), OnMapReadyCallback {
                 carmaptap_water.text = arr[2]
                  */
 
-                return false //이거 고쳐야함 다시 
+                return false //잘해보자
             }
         })
         mMap!!.setOnMapClickListener(object : GoogleMap.OnMapClickListener {
