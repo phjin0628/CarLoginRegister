@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fp_explanation_01"> 차박의 낭만을 즐기는 </string>
+    <string name="fp_explanation_02"> 당신을 위한 든든한 길잡이</string>
+    <string name="fp_button"> 시작하기</string>
+    <string name="fp_logo_exlanation_01"> logo_only_pic</string>
+    <string name="fp_logo_exlanation_02"> logo_only_letters</string>
+    <string name="login"> Login</string>
+    <string name="login_button"> 로그인</string>
+    <string name="login_id"> 아이디</string>
+    <string name="login_pw"> 비밀번호</string>
+    <string name="public_facilities"> 편의시설</string>
+    <string name="search_spot"> 캠핑장 검색</string>
+    <string name="community"> 커뮤니티</string>
+    <string name="more"> 더보기</string>
+    <string name="title_activity_car_map">Map</string>
+    <string name="sign_up">회원가입</string>
+    <string name="sign_up_main">Sign Up</string>
+
+</resources>
