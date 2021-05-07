@@ -1,8 +1,8 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
-
     id 'kotlin-android-extensions' // androidx를 사용하기 위함
+    id 'kotlin-kapt' //레트로핏 사용하기 위한 설정
 }
 
 android {
@@ -55,6 +55,7 @@ dependencies {
 
     implementation "com.squareup.retrofit2:retrofit:2.7.1" //retrofit
     implementation "com.squareup.retrofit2:converter-gson:2.7.1" //gson
+    //implementation 'com.github.bumptech.glide:compiler:4.11.0'
 
     //카드뷰 사용하기
     implementation 'com.makeramen:roundedimageview:2.3.0'
