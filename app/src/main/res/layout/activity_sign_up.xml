@@ -130,7 +130,11 @@
         android:text="@string/sign_up"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+<<<<<<< HEAD
         app:layout_constraintTop_toBottomOf="@+id/textPhonenum" />
+=======
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName6" />
+>>>>>>> origin/master
 
     <Button
         android:id="@+id/button"
@@ -142,6 +146,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@+id/editTextTextPersonName2"
+<<<<<<< HEAD
         app:layout_constraintTop_toBottomOf="@+id/textName" />
 
     <Button
@@ -152,4 +157,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
+=======
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName" />
+>>>>>>> origin/master
 </androidx.constraintlayout.widget.ConstraintLayout>
